@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-jyl5xa.eurotogel4ted.lat/sitemap.xml
